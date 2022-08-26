@@ -1,1 +1,2 @@
 I_am_doin_hard_thing
+I_am_learning_new_things_everyday
